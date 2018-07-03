@@ -1,0 +1,6 @@
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2\bin\Debug\Task1-2.exe.config
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2\bin\Debug\Task1-2.exe
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2\bin\Debug\Task1-2.pdb
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2\obj\Debug\Task1-2.csprojResolveAssemblyReference.cache
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2\obj\Debug\Task1-2.exe
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2\obj\Debug\Task1-2.pdb

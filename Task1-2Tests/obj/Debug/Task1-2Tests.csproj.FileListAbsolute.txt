@@ -1,0 +1,8 @@
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\bin\Debug\Task1-2Tests.dll
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\bin\Debug\Task1-2Tests.pdb
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\bin\Debug\Task1-2.exe
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\bin\Debug\Task1-2.pdb
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\obj\Debug\Task1-2Tests.csprojResolveAssemblyReference.cache
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\obj\Debug\Task1-2Tests.dll
+C:\Users\Islam_Rakymbay\Downloads\Task1-2\Task1-2Tests\obj\Debug\Task1-2Tests.pdb
